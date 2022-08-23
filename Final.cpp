@@ -3,7 +3,7 @@
 //
 
 /*
- * sx0 -> the initial value of fibre length.
+ * x0 -> the initial value of fibre length.
  * In this code k indicates the index of the differential equations.
  * k = 1 -> Signal, k = 2 -> Pa, k = 3 -> Pn.
  * During the input you will be asked to enter the number of steps.
